@@ -1,0 +1,32 @@
+D:\TTBHuyenB2\TTBHuyenB2\bin\Debug\TTBHuyenB2.exe.config
+D:\TTBHuyenB2\TTBHuyenB2\bin\Debug\TTBHuyenB2.exe
+D:\TTBHuyenB2\TTBHuyenB2\bin\Debug\TTBHuyenB2.pdb
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.csprojResolveAssemblyReference.cache
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Properties.Resources.resources
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.csproj.GenerateResource.Cache
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.exe
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.pdb
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai1.resources
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai2.resources
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai3.resources
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\bin\Debug\TTBHuyenB2.exe.config
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\bin\Debug\TTBHuyenB2.exe
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\bin\Debug\TTBHuyenB2.pdb
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.csproj.AssemblyReference.cache
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.csproj.SuggestedBindingRedirects.cache
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai1.resources
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai2.resources
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai3.resources
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai4.resources
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Properties.Resources.resources
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.csproj.GenerateResource.cache
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.csproj.CoreCompileInputs.cache
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.exe
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.pdb
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai5.resources
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai4.resources
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai5.resources
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai6.resources
+D:\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai7.resources
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai6.resources
+D:\Lập Trình Giao Diện\TTBHuyenB2\TTBHuyenB2\obj\Debug\TTBHuyenB2.Bai7.resources
